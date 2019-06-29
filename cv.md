@@ -10,7 +10,7 @@ HTML
 CSS
 Java Script
 ### Code examples
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](html.PNG)
 ### Latest Projects
 Waxom
 Spirit8
