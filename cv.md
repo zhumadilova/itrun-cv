@@ -12,8 +12,7 @@ Java Script*
 ### *Code examples*
 ![Image ](html.PNG)
 ### *Latest Projects*
-1. *Spirit8*
-2. *Waxom*
+ __Spirit8, Waxom__
 ### *Education*
 *I study at the twenty-ninth school in the ninth grade.*
 ### *English*
