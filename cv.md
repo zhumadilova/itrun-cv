@@ -1,22 +1,22 @@
 # Aiperi Zhumadilova
-####*Contact Info*
+### *Contact Info*
 1. Phone: +996701404093 
 2. Email: zhumadilova12aiperi@gmail.com
-#### *Summary*
+### *Summary*
 __Recently became interested in IT programming . 
 Now I'm studying front end development__
-#### *Skills*
+### *Skills*
 *HTML,
 CSS,
 Java Script*
-#### *Code examples*
+### *Code examples*
 ![Image ](html.PNG)
 #### *Latest Projects*
 1. *Spirit8*
 2. *Waxom*
-#### *Education*
+### *Education*
 *I study at the twenty-ninth school in the ninth grade.*
-#### *English*
+### *English*
 __*I don't speak English.*__
 
 

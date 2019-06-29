@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e09e23f-28b0-4b84-aef5-ef616878f66e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/cv.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="190">
-                <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <first_editor relative-caret-position="-116">
+                <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -120,15 +119,15 @@
       <option name="presentableId" value="Default" />
       <updated>1561726627867</updated>
       <workItem from="1561726629114" duration="2494000" />
-      <workItem from="1561799496455" duration="9072000" />
+      <workItem from="1561799496455" duration="9316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11566000" />
+    <option name="totallyTimeSpent" value="11810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -167,8 +166,8 @@
     <entry file="file://$PROJECT_DIR$/cv.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <first_editor relative-caret-position="-116">
+            <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
