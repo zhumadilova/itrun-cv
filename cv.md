@@ -10,7 +10,7 @@ HTML
 CSS
 Java Script
 ### Code examples
-![Image of Yaktocat](html.PNG)
+![Image ](html.PNG)
 ### Latest Projects
 Waxom
 Spirit8
