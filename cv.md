@@ -5,10 +5,10 @@
 #### *Summary*
 __Recently became interested in IT programming . 
 Now I'm studying front end development__
-#### Skills
-__*HTML,
+#### *Skills*
+*HTML,
 CSS,
-Java Script*__
+Java Script*
 #### *Code examples*
 ![Image ](html.PNG)
 #### *Latest Projects*
