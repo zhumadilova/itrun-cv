@@ -11,7 +11,7 @@ CSS,
 Java Script*
 ### *Code examples*
 ![Image ](html.PNG)
-#### *Latest Projects*
+### *Latest Projects*
 1. *Spirit8*
 2. *Waxom*
 ### *Education*
