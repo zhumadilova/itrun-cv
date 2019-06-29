@@ -1,7 +1,7 @@
 # Aiperi Zhumadilova
 ### *Contact Info*
-1. Phone: +996701404093 
-2. Email: zhumadilova12aiperi@gmail.com
+1. __*Phone: +996701404093*__
+2. __*Email: zhumadilova12aiperi@gmail.com*__
 ### *Summary*
 __Recently became interested in IT programming . 
 Now I'm studying front end development__
